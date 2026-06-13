@@ -9,8 +9,30 @@ C-Programming-Practice
 │   └── prime_number.c
 │
 ├── 2. Arrays
+│   ├── largest_element.c
+│   ├── smallest_element.c
+│   ├── reverse_array.c
+│   └── search_element.c
+│
 ├── 3. Strings
+│   ├── string_length.c
+│   ├── reverse_string.c
+│   ├── palindrome_string.c
+│   ├── count_vowels.c
+│   └── count_words.c
+│
 ├── 4. Functions
+│   ├── add_function.c
+│   ├── factorial_function.c
+│   ├── prime_function.c
+│   ├── fibonacci_function.c
+│   └── calculator_function.c
+
 ├── 5. Pointers
+│   ├── pointer_basics.c
+│   ├── swap_using_pointers.c
+│   ├── sum_using_pointers.c
+│   ├── array_using_pointers.c
+│   └── pointer_arithmetic.c
 │
 └── README.md
