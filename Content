@@ -1,0 +1,16 @@
+C-Programming-Practice
+│
+├── 1. Basics
+│   ├── hello_world.c
+│   ├── addition.c
+│   ├── even_odd.c
+│   ├── factorial.c
+│   ├── fibonacci.c
+│   └── prime_number.c
+│
+├── 2. Arrays
+├── 3. Strings
+├── 4. Functions
+├── 5. Pointers
+│
+└── README.md
